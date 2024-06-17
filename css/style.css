@@ -1,0 +1,21 @@
+.container{
+    background-color: blueviolet;
+}
+
+#form{
+    
+
+}
+
+#title{
+    text-align: center;
+}
+#description{
+    text-align: center;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
